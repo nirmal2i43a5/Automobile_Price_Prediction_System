@@ -1,7 +1,8 @@
 
-## Vehicle Pricing Prediction
+## Vehicle Pricing Prediction Analysis
 
-![image](https://github.com/user-attachments/assets/9ee4157e-1508-4d49-939b-dbf48b12a1cb)
+![image](https://github.com/user-attachments/assets/a48d02e2-33c5-4b14-86ee-2645ba9cd781)
+
 
 ### Problem Statement
 
