@@ -1,9 +1,10 @@
-
-
+🚗 Vehicle Pricing Prediction
 ### Problem Statement
 
-To predict vehicle pricing based on design, performance, and temporal factors.
+This project aims to predict vehicle pricing based on various attributes related to design, performance, market conditions, and temporal factors. It leverages machine learning techniques to provide accurate and actionable insights into automobile pricing.
 
-- **Design and Performance:** Engine Fuel Type, Engine HP, Engine Cylinders, Transmission Type, Driven Wheels, Number of Doors, Vehicle Size, Vehicle Style.
+📊 Dataset Features
 
-- **Market and Timing:** Make, Model, Year, Market Category, highway MPG, city mpg
+Design & Performance:  Engine Fuel Type, Engine HP, Engine Cylinders, Transmission Type, Driven Wheels, Number of Doors, Vehicle Size, Vehicle Style.
+
+Market & Timing: Make, Model, Year, Market Category, Highway MPG, City MPG.
