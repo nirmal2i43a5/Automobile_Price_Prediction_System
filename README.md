@@ -10,7 +10,7 @@ This project aims to predict vehicle pricing based on various attributes related
 
 - Hyperparameter tuning reduced overall prediction error (MSE/RMSE improvements).
 
-- R² improved from 95.6% → 96.5%, showing stronger explanatory power.
+- R² improved from 95.6% → 96.5%, showing stronger explanatory power
 
 - Slight MAE increase indicates tuning improved variance reduction more than absolute error minimization.
 
